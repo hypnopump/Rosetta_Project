@@ -2,7 +2,6 @@
 
 def dicho(arr = [], v=0):
 	med = round(len(arr)/2)
-
 	if len(arr) <= 1:
 		return True if arr[0] == v else False
 	else: 
