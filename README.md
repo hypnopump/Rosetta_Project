@@ -22,4 +22,4 @@ Feel free to fork and add another language!
 You're strongly encouraged to contribute and add your own language! Open/close issues, fork the repo and make a Pull request! All ideas are welcome.
 
 ## Meta
-[Eric Alcaide](https://github.com/EricAlcaide/) – [@eric_alcaide](https://twitter.com/eric_alcaide) – ericalcaide1@gmail.com
+GitHub: [Eric Alcaide](https://github.com/EricAlcaide/) – Twitter: [@eric_alcaide](https://twitter.com/eric_alcaide) – Email: ericalcaide1@gmail.com
