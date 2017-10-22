@@ -6,8 +6,8 @@ import "fmt"
 
 func p2 (c int, moves [3]int) int{
 	min_result := 1;
-	for i:=0; i<len(moves);i++{
-		if c-moves[i] >= 0{
+	for i:=0; i<len(moves); i++{
+		if c - moves[i] >= 0{
 			result := p1(c-moves[i], moves)
 			if result < min_result{
 				min_result = result;
@@ -19,8 +19,8 @@ func p2 (c int, moves [3]int) int{
 
 func p1(c int, moves [3]int) int{
 	max_result := -1;
-	for i:=0; i<len(moves);i++{
-		if c-moves[i] >= 0{
+	for i:=0; i<len(moves); i++{
+		if c - moves[i] >= 0{
 			result := p2(c-moves[i], moves)
 			if result > max_result{
 				max_result = result;
