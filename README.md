@@ -11,12 +11,15 @@ Algorithms will be organized in folders. Each folder will contain a **readme.md*
 ## Languages
 
 The first version will include the following languages:
-	- Python
-	- JavaScript
-	- Go
+* Python
+* JavaScript
+* Go
 
 Feel free to fork and add another language!
 
 ## Contribute
 
 You're strongly encouraged to contribute and add your own language! Open/close issues, fork the repo and make a Pull request! All ideas are welcome.
+
+## Meta
+[Eric Alcaide](https://github.com/EricAlcaide/) – [@eric_alcaide](https://twitter.com/eric_alcaide) – ericalcaide1@gmail.com
