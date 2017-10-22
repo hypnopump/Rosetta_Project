@@ -2,7 +2,7 @@
 
 This project is intended to be a programming **Rosetta Stone**. Here you'll find algorithms in various coding languages.
 
-This project with the belief that the best way to learn how to code is **coding**. Yes, coding is a learning by doing task.
+This project is with the idea that the best way to learn how to code is coding itself. Yes, **coding is a learning by doing task**.
 
 ## Organization
 
