@@ -16,6 +16,9 @@ If ```n = 10``` , **P1** can remove either 2 or 3 stones to win the game, so we 
 
 ### Desired Output / Test Cases
 
+* **Input:** List containing test cases: [1,2,3,4,5,6,7,10]
+* **Output:**
+
 1:  Second
 2:  First
 3:  First
