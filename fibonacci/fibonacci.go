@@ -11,7 +11,6 @@ func fibonacci(){
 		actual = prev+aux
 		prev = aux
 		fmt.Println(actual)
-		q += 1
 	}
 }
 
