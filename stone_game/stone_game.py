@@ -31,5 +31,3 @@ def game(cases, convert):
 		print(convert[outcome])
 
 game(cases, convert)
-
-print("hey hey hey", p1(3,moves))
