@@ -15,11 +15,11 @@ The first version will include the following languages:
 * JavaScript
 * Go
 
-Feel free to fork and add another language!
+More languages will be continously added with Pull Requests. Feel free to fork and add another language!
 
 ## Contribute
 
 You're strongly encouraged to contribute and add your own language! Open/close issues, fork the repo and make a Pull request! All ideas are welcome.
 
 ## Meta
-GitHub: [Eric Alcaide](https://github.com/EricAlcaide/) – Twitter: [@eric_alcaide](https://twitter.com/eric_alcaide) – Email: ericalcaide1@gmail.com
+<center> GitHub: [Eric Alcaide](https://github.com/EricAlcaide/) – Twitter: [@eric_alcaide](https://twitter.com/eric_alcaide) – Email: ericalcaide1@gmail.com </center>
