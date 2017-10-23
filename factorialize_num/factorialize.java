@@ -5,6 +5,6 @@ public class factorialize {
   }
 
   public static int factorializeCal(int n) {
-    return n <= 1 ? 1 :  n * factorializeCal(n-1);
+    return n <= 1 ? 1 : n * factorializeCal(n-1);
   }
 }
