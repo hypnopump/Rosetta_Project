@@ -2,7 +2,7 @@ def fibonacci():
     prev, actual = 0, 1
     for q in range(10):
         actual, prev = actual+prev, actual
-        print(aux)
+        print(actuañ)
 
 def main():
     fibonacci()
