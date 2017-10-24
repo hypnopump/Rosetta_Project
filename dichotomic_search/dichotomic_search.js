@@ -7,9 +7,8 @@ function dichotomic_search(array = [],v = 0) {
 					dichotomic_search(array.splice(0,med),v) : 
 					dichotomic_search(array.splice(med,array.length),v) : 
 
-				array[0] == v ? 
-					v : 
-					null;
+				array[0] == v ? v : null;
 }
 
-let result = dichotomic_search();
+let result = dicho_search([1,0,1,2,3], 2);
+console.log(result);
