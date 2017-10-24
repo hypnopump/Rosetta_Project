@@ -1,6 +1,4 @@
-/*
- * Hello world implementation for Rosetta Stone in C++.
- */
+/* Hello world implementation for Rosetta Stone in C++. */
 
 #include<iostream>
 #include<string>
