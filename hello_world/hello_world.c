@@ -1,6 +1,4 @@
-/*
- * Hello world implementation for Rosetta Stone.
- */
+/* Hello world implementation for Rosetta Stone. */
 
 #include <stdio.h>
 
