@@ -1,6 +1,4 @@
-/*
- * Fibonacci implementation for Rosetta Stone project
- */
+/* Fibonacci implementation for Rosetta Stone project */
 
 #include <iostream>
 using namespace std;
