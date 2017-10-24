@@ -1,9 +1,6 @@
 /*Rust implementation for the Stone Game Problem*/
 
-enum Convert {
-    First = 1, 
-    Second = -1,
-}
+enum Convert {First = 1, Second = -1}
 
 fn p1(c: i32, moves: Vec<i32>) -> i32 {
     let mut max_result = Convert::Second as i32;
@@ -42,5 +39,4 @@ fn main() {
             _ => panic!("An internal error occurred")
          }
     }
-    
 }
