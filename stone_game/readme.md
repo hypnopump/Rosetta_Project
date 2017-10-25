@@ -29,5 +29,7 @@ If ```n = 10``` , **P1** can remove either 2 or 3 stones to win the game, so we 
 10: First
 
 ### Theory
+The goal of this code snippet is to provide an easy implementation of the Minimax algorithm, widely used in games AIs. This algorithm is composed by 2 players that evaluate each node and select the best action possible for themselves.
+
 For `n % 7` in `[0, 1]`, the first player loses, otherwise the first player wins.
 Please find this [link](https://theory.stanford.edu/~trevisan/cs103-14/hw2sol.pdf) for a rigorous proof.
