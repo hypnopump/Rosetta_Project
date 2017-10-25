@@ -1,0 +1,11 @@
+A cypherpunk is any activist advocating widespread use of strong cryptography and privacy-enhancing technologies as a route to social and political change.
+
+John Gilmore said he wanted "a guarantee -- with physics and mathematics, not with laws -- that we can give ourselves real privacy of personal communications."
+
+Such guarantees require strong cryptography, so cypherpunks are fundamentally opposed to government policies attempting to control the usage or export of cryptography, which remained an issue throughout the late 1990s. The Cypherpunk Manifesto stated "Cypherpunks deplore regulations on cryptography, for encryption is fundamentally a private act."
+
+Arguably, the possibility of anonymous speech and publication is vital for an open society, an essential requirement for genuine freedom of speech — this was the position of most cypherpunks.
+
+An important set of discussions concerns the use of cryptography in the presence of oppressive authorities. As a result, Cypherpunks have discussed and improved steganographic methods that hide the use of crypto itself, or that allow interrogators to believe that they have forcibly extracted hidden information from a subject. For instance, Rubberhose was a tool that partitioned and intermixed secret data on a drive with fake secret data, each of which accessed via a different password. Interrogators, having extracted a password, are led to believe that they have indeed unlocked the desired secrets, whereas in reality the actual data is still hidden. In other words, even its presence is hidden. Likewise, cypherpunks have also discussed under what conditions encryption may be used without being noticed by network monitoring systems installed by oppressive regimes.
+
+Cypherpunks write code. We know that someone has to write software to defend privacy, and... we're going to write it.

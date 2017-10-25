@@ -1,3 +1,7 @@
+# coding: utf8
+# Python implementation of Hello World
+# Author: Eric Alcaide
+
 def main(word):
 	# This line of code prints the first line of output
 	print("Hello, World.")

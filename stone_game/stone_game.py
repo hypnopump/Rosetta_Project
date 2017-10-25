@@ -1,5 +1,6 @@
-# Code written for the Stone Game problem from Hackerrank
-# Python version
+# coding: utf8
+# Python code written for the Stone Game problem from Hackerrank
+# Author: Eric Alcaide
 
 cases = [1,2,3,4,5,6,7,10]
 moves = [2,3,5]

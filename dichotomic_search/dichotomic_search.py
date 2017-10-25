@@ -1,4 +1,6 @@
+# coding: utf8
 # Python implementation of Dichotomic Search algo
+# Author: Eric Alcaide
 
 def dicho(arr = [], v=0):
 	med = round(len(arr)/2)
