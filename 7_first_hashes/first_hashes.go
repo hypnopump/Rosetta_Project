@@ -13,11 +13,11 @@ func req_string() string{
 	reader := bufio.NewReader(os.Stdin)
 	word, _ := reader.ReadString('\n')
 	
-	hasher := sha512.New()
-	hasher.Write([]byte(word))
-	b_hasher := string(hasher.Sum(nil))
+	sha_512 := sha512.New()
+	sha_512.Write([]byte(word))
+	sha_512_out := fmt.Sprintf("%x", sha_512.Sum(nil))
 
-	return b_hasher
+	return sha_512_out
 }
 
 func main() {
@@ -29,7 +29,7 @@ func main() {
 		new_w := req_string()
 
 		if new_w == word{
-			fmt.Println("Good job!", word)
+			fmt.Println("Good job!")
 			break
 		}else{
 			fmt.Println("Passwords don't match. Try again.")
