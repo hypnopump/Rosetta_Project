@@ -2,10 +2,8 @@ def fib i
 	a = 0
 	b = 1
 	i.times do
-		c = a + b
-		a = b
-		b = c
-		puts c
+		b,a = b+a, b
+		print b, "\n"
 	end
 end
 
