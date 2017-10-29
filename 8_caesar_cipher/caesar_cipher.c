@@ -9,7 +9,6 @@ int main(int argc, string argv[]) {
     string plaintext;
     int length, k;
     
-
     //make sure that main has 2 arguments
     while (argc != 2) {
         printf("Does not compute. Enter a key to encypher.");
@@ -29,18 +28,14 @@ int main(int argc, string argv[]) {
                 char C = ((((plaintext[i] + k) - 65) % 26) + 65);   
                 printf("%c", C);
             }
-            
             else if islower(plaintext[i]) {                         //if it's lowercase, keep it that way
                 char c = ((((plaintext[i] + k) - 97) % 26) + 97);   
                 printf("%c", c);
             }
-            
             else {
                 printf("%c", plaintext[i]);                         //print any other text
             }
         }
-        
-        
     }
     printf("\n");
     return 0;
