@@ -1,4 +1,4 @@
-# Rosetta Stone
+# Rosetta Project
 
 This project is intended to be a programming **Rosetta Stone**. Here you'll find algorithms in various coding languages.
 
@@ -15,11 +15,16 @@ The first version will include the following languages:
 * JavaScript
 * Go
 
-More languages will be continously added with Pull Requests. Feel free to fork and add another language!
+And the ones added by contributors. More languages will be continously added with Pull Requests. Feel free to fork and add another language!
 
 ## Contribute
 
 You're strongly encouraged to contribute and add your own language! Open/close issues, fork the repo and make a Pull request! All ideas are welcome.
 
+By participating in this project, you agree to abide by the thoughtbot [code of conduct](https://thoughtbot.com/open-source-code-of-conduct)
+
 ## Meta
-GitHub: [Eric Alcaide](https://github.com/EricAlcaide/) – Twitter: [@eric_alcaide](https://twitter.com/eric_alcaide) – Email: ericalcaide1@gmail.com
+
+* **Author's Profile**: [Eric Alcaide](https://github.com/EricAlcaide/)
+* **Twitter**: [@eric_alcaide](https://twitter.com/eric_alcaide)
+* **Email**: ericalcaide1@gmail.com
