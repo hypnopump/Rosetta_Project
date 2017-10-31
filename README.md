@@ -15,7 +15,7 @@ The first version will include the following languages:
 * JavaScript
 * Go
 
-And the ones added by contributors. More languages will be continously added with Pull Requests. Feel free to fork and add another language!
+And all others added by contributors. More languages will be continously added with Pull Requests. Feel free to fork and add another language!
 
 ## Contribute
 
