@@ -9,27 +9,18 @@ template <class T>
 bool dichotomic_search(const vector<T> &arr, T key) {
     int mid = floor(arr.size() / 2);
     
-    if (arr.size() == 1) {
-        if (arr[0] == key) {
-            return true;
-        }
-        else {
-            return false;
-        }
-    }
-    else if (arr.size() < 1) {
+    if (arr.size() < 1) {
         return false;
     }
-    else {
-        if (arr[mid] > key) {
-            vector<T> arr_half1(arr.begin(), (arr.begin() + arr.size() / 2));
-            return dichotomic_search(arr_half1, key);
-        }
-        else {
-            vector<T> arr_half2((arr.begin() + arr.size() / 2), arr.end());
-            return dichotomic_search(arr_half2, key);
-        }
+    if (arr.size() == 1) {
+        return (arr[0] == key) ? true : false;
     }
+    if (arr[mid] > key) {
+        vector<T> arr_half1(arr.begin(), (arr.begin() + arr.size() / 2));
+        return dichotomic_search(arr_half1, key);
+    }
+    vector<T> arr_half2((arr.begin() + arr.size() / 2), arr.end());
+    return dichotomic_search(arr_half2, key);
 }
 
 int main() {
