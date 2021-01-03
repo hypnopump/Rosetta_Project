@@ -25,6 +25,6 @@ By participating in this project, you agree to abide by the thoughtbot [code of 
 
 ## Meta
 
-* **Author's Profile**: [Eric Alcaide](https://github.com/EricAlcaide/)
+* **Author's Profile**: [Eric Alcaide](https://github.com/hypnopump/)
 * **Twitter**: [@eric_alcaide](https://twitter.com/eric_alcaide)
 * **Email**: ericalcaide1@gmail.com
